@@ -196,10 +196,10 @@ nav.main-menu a:link, nav.main-menu a:hover, nav.main-menu a:focus, nav.main-men
     border-bottom: 0px dotted #000;
 }
 #templatemo_home a.btn_wapper {
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 #templatemo_home a.btn {
-    font: normal normal 300 18px/60px 'Fira Sans', sans-serif;
+    font: normal normal 200 18px/60px 'Fira Sans', sans-serif;
     margin-bottom: 30px;
     border-radius: 0px;
     background: #fff;
